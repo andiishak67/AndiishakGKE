@@ -7,7 +7,7 @@ const HOST = '0.0.0.0'
 
 const app = express()
 app.get('/', (req, res) => {
-    res.send('Andi Ishak Mangeragi\n')
+    res.send('Andi Ishak\n')
     res.send('51021801\n')
     res.send('Sistem Informasi\n')
 })
